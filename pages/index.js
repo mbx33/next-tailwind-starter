@@ -11,7 +11,9 @@ export default function Home() {
 			</Head>
 
 			<main>
-				<h1 className="text-center text-6xl font-bold">hello, Next.js!</h1>
+				<h1 className="capitalize text-center text-6xl font-bold">
+					hello, Next.js!
+				</h1>
 			</main>
 		</div>
 	);
